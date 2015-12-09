@@ -1,0 +1,48 @@
+/* style.css */
+body{
+  margin:0;
+  color: black;
+  background: rgb(245,245,245);
+  font-family: 'Open Sans', sans-serif;
+}
+
+#my-header{
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: center;
+  background-image: url("http://lorempixel.com/1300/600/food");
+  background-size: cover;
+}
+
+.feature{
+  padding: 30px;
+}
+
+h1{
+  font-family: courier;
+  color: #23AAFD;
+}
+
+p{
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 300;
+}
+
+.feature img{
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.feature img{
+
+}
+
+#my-footer{
+  padding:30px;
+  background-color: rgb(50,50,50);
+  color: lightgray;
+}
