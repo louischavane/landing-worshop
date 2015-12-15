@@ -14,6 +14,10 @@ body{
   background-size: cover;
 }
 
+#my-header p{
+  color: #23AAFD;
+}
+
 .feature{
   padding: 30px;
 }
